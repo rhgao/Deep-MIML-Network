@@ -7,7 +7,7 @@ This repository contains the deep MIML network implementation for our [ECCV 2018
 If you find our code or project useful in your research, please cite:
 
         @inproceedings{gao2018im2flow,
-          title={Im2Flow: Motion Hallucination from Static Images for Action Recognition},
+          title={Learning to Separate Object Sounds by Watching Unlabeled Video},
           author={Gao, Ruohan and Feris, Rogerio and Grauman, Kristen},
           booktitle={ECCV},
           year={2018}
