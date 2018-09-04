@@ -5,7 +5,7 @@ This repository contains the deep MIML network implementation for our [ECCV 2018
 
 If you find our code or project useful in your research, please cite:
 
-        @inproceedings{gao2018im2flow,
+        @inproceedings{gao2018objectSounds,
           title={Learning to Separate Object Sounds by Watching Unlabeled Video},
           author={Gao, Ruohan and Feris, Rogerio and Grauman, Kristen},
           booktitle={ECCV},
@@ -18,4 +18,4 @@ Use the following command to train the deep MIML network:
   ```
   
 ### Acknowlegements
-Our code borrows heavily from the the CycleGAN implementation from https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/.
+Our code borrows heavily from the the CycleGAN implementation https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/.
